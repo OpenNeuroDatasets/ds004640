@@ -33,7 +33,5 @@
         "https://surfer.nmr.mgh.harvard.edu",
         "https://histopath.nmr.mgh.harvard.edu"
     ],
-    "Funding": [
-        "National Institutes of Health (NIH DP2HD101400, NINDS R21NS109627, NINDS K23NS094538, NINDS U01NS086625, NINDS R01NS0525851, NINDS R21NS072652, NINDS R01NS070963, NINDS R01NS083534, NINDS UH3NS095554, NIBIB K01EB019474, NIBIB P41EB015896, NIBIB 1R01EB023281, NIBIB R01EB006758, NIBIB R21EB018907, NIBIB R01EB019956, NIDCD R21DC015888, NCI U01CA193632, NIA R01AG008122, NIA R01AG016495), James S. McDonnell Foundation, American Academy of Neurology/American Brain Foundation, Center for Integration of Medicine and Innovative Technology (Boston, MA), Rappaport Foundation, Tiny Blue Dot Foundation, and Chen Institute MGH Research Scholar Award. Additional support was provided by the NIH Blueprint for Neuroscience Research (U01MH093765), part of the multi-institutional Human Connectome Project. This research was also made possible by the resources provided by National Institutes of Health P41RR014075 and shared instrumentation grants 1S10RR023401, 1S10RR019307, and 1S10RR023043."
-    ]
+    "Funding": []
 }
