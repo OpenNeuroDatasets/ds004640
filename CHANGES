@@ -1,3 +1,5 @@
+1.0.4 2024-07-19
+  - Re-upload of EXC007 DWI due to data download issues
 1.0.3 2024-07-10
   - Corrected orientation issues for the DWI volumes and ROIs
 1.0.2 2023-12-04
